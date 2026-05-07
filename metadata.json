@@ -1,0 +1,7 @@
+{
+  "name": "Vignan Pro-Quiz Portal",
+  "description": "A high-end, proctored quiz application for faculty and students featuring rich text editing, automated reporting, and AI-powered question generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
